@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sago’s Tech Blog</title>
+    <link>https://sago-liu.github.io/post/</link>
+    <description>Recent content in Posts on Sago’s Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Feb 2018 09:47:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://sago-liu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menu</title>
+      <link>https://sago-liu.github.io/post/menu/</link>
+      <pubDate>Sun, 04 Feb 2018 09:47:43 +0800</pubDate>
+      
+      <guid>https://sago-liu.github.io/post/menu/</guid>
+      <description>PHP  Go  Python   PHP   Panel content   Go   Panel content   Python   Panel content   </description>
+    </item>
+    
+  </channel>
+</rss>
