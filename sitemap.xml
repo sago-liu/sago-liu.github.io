@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sago-liu.github.io/post/menu/</loc>
+    <loc>https://sago-liu.github.io/post/appetizer/</loc>
+    <lastmod>2018-02-04T09:47:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sago-liu.github.io/post/entrees/</loc>
+    <lastmod>2018-02-04T09:47:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sago-liu.github.io/post/desserts/</loc>
     <lastmod>2018-02-04T09:47:43+08:00</lastmod>
   </url>
   

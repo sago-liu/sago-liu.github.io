@@ -12,12 +12,30 @@
     
     
     <item>
-      <title>Menu</title>
-      <link>https://sago-liu.github.io/post/menu/</link>
+      <title>1st - appetizer</title>
+      <link>https://sago-liu.github.io/post/appetizer/</link>
       <pubDate>Sun, 04 Feb 2018 09:47:43 +0800</pubDate>
       
-      <guid>https://sago-liu.github.io/post/menu/</guid>
+      <guid>https://sago-liu.github.io/post/appetizer/</guid>
       <description>PHP  Go  Python   PHP   Panel content   Go   Panel content   Python   Panel content   </description>
+    </item>
+    
+    <item>
+      <title>2nd - entrees</title>
+      <link>https://sago-liu.github.io/post/entrees/</link>
+      <pubDate>Sun, 04 Feb 2018 09:47:43 +0800</pubDate>
+      
+      <guid>https://sago-liu.github.io/post/entrees/</guid>
+      <description>Web  Deep Learning   Web   Panel content   Deep Learning   Panel content   </description>
+    </item>
+    
+    <item>
+      <title>3rd - desserts</title>
+      <link>https://sago-liu.github.io/post/desserts/</link>
+      <pubDate>Sun, 04 Feb 2018 09:47:43 +0800</pubDate>
+      
+      <guid>https://sago-liu.github.io/post/desserts/</guid>
+      <description>生活随想   生活随想   Panel content   </description>
     </item>
     
   </channel>
